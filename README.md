@@ -2,37 +2,37 @@
 A curated list of places to launch your products
 
 
- | Name                                                     | Website                                                                     | Category           | DA (Domain Authority) | Impact         |
+| Name                                                     | Website                                                                     | Category           | DA (Domain Authority) | Impact         |
 |----------------------------------------------------------|-----------------------------------------------------------------------------|--------------------|-----------------------|----------------|
 | Product Hunt                                             | https://www.producthunt.com/                                                | Launch Platform    | 89                    | High Impact    |
 | TechCrunch                                               | https://techcrunch.com/                                                     | Media              | 93                    | High Impact    |
 | HackerNews                                               | https://news.ycombinator.com/showhn.html                                    | Forum              | 89                    | High Impact    |
-| Crunchbase                                               | crunchbase.com                                                              | Directory          | 91                    | High Impact    |
+| Crunchbase                                               | https://crunchbase.com                                                              | Directory          | 91                    | High Impact    |
 | Betalist                                                 | http://betalist.com/                                                        | Directory          | 60                    | High Impact    |
 | All top startups                                         | http://alltopstartups.com/submit-startup/                                   | Directory          | 72                    | Medium Impact  |
 | Mashable                                                 | http://mashable.com/                                                        | Media              | 93                    | High impact    |
 | Stripe                                                   | https://stripe.com/en-in/partner-proqram                                    | Partner Program    | 91                    | High Impact    |
 | Forbes Technology                                        | http://www.forbes.com/technology/                                           | Media              | 94                    | high impact    |
-| Growth Hackers                                           | growthhackers.com                                                           | Community          | 66                    | Low impact     |
+| Growth Hackers                                           | https://growthhackers.com                                                           | Community          | 66                    | Low impact     |
 | Peerlist                                                 | https://peerlist.io/                                                        | Directory          | 32                    | Medium Impact  |
 | YourStory                                                | https://yourstory.com/                                                      | Media              | 86                    | High Impact    |
 | Hashnode                                                 | http://hashnode.com/                                                        | Blogging Platform  | 61                    | High Impact    |
 | Wellfound                                                | https://wellfound.com/                                                      | Jobs               | 86                    | High Impact    |
-| Capterra                                                 | Capterra.com                                                                | Review Website     | 78                    | High Impact    |
-| Beta Bound                                               | betabound.com                                                               | Directory          | 49                    | Medium Impact  |
-| Android Authority                                        | androidauthority.com                                                        | Media              | 91                    | High Impact    |
-| Foundr                                                   | Foundr.com                                                                  | Media              | 64                    | Medium Impact  |
-| Biggerpockets.com                                        | Biggerpockets.com                                                           | Community          | 79                    | High Impact    |
-| CrozDesk                                                 | Crozdesk.com                                                                | Review Website     | 46                    | Medium Impact  |
-| Entrepreneur                                             | Entrepreneur.com                                                            | Media              | 92                    | High Impact    |
-| Geekwire                                                 | Geekwire.com                                                                | Directory          | 88                    | High Impact    |
+| Capterra                                                 | https://Capterra.com                                                                | Review Website     | 78                    | High Impact    |
+| Beta Bound                                               | https://betabound.com                                                               | Directory          | 49                    | Medium Impact  |
+| Android Authority                                        | https://androidauthority.com                                                        | Media              | 91                    | High Impact    |
+| Foundr                                                   | https://Foundr.com                                                                  | Media              | 64                    | Medium Impact  |
+| Biggerpockets.com                                        | https://Biggerpockets.com                                                           | Community          | 79                    | High Impact    |
+| CrozDesk                                                 | https://Crozdesk.com                                                                | Review Website     | 46                    | Medium Impact  |
+| Entrepreneur                                             | https://Entrepreneur.com                                                            | Media              | 92                    | High Impact    |
+| Geekwire                                                 | https://Geekwire.com                                                                | Directory          | 88                    | High Impact    |
 | AlternativeTo                                            | http://alternativeto.net/                                                   | Directory          | 87                    | Medium Impact  |
 | Behance                                                  | http://behance.net/                                                         | Creative           | 92                    | High Impact    |
-| BostInno Startups, Tech News and Events                  | https://bizjournals.com                                                             | Media              | 92                    | High Impact    |
-| Digg                                                     | https://digg.com                                                                    | Media              | 92                    | High Impact    |
-| FinancesOnline.com                                       | https://FinancesOnline.com                                                          | Media              | 72                    | High Impact    |
+| BostInno Startups, Tech News and Events                  | https://bizjournals.com                                                     | Media              | 92                    | High Impact    |
+| Digg                                                     | https://digg.com                                                            | Media              | 92                    | High Impact    |
+| FinancesOnline.com                                       | https://FinancesOnline.com                                                  | Media              | 72                    | High Impact    |
 | Launching Next                                           | http://launchingnext.com/                                                   | Directory          | 39                    | Medium Impact  |
-| Healthline                                               | https://healthline.com                                                              | Media              | 91                    | High Impact    |
+| Healthline                                               | https://healthline.com                                                      | Media              | 91                    | High Impact    |
 | Alternative.me                                           | http://alternative.me/                                                      | Directory          | 55                    | High Impact    |
 | Android United                                           | http://android-united.community/                                            | Community          | 25                    | Low impact     |
 | Appiod.com                                               | http://appiod.com/submit-app-for-review/                                    | Directory          | 20                    | Low impact     |
